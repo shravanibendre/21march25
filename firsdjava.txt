@@ -1,0 +1,8 @@
+class Helloword
+{
+
+public Static void main
+{
+ System.out.println("Helloword");
+}
+}
