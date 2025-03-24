@@ -1,0 +1,6 @@
+this is my day 3 git tools
+
+
+1.working area
+2.stagging area
+3.committed area
