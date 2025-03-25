@@ -1,1 +1,5 @@
 first demo git files
+
+its is imfo
+working area
+ this is staging area 
