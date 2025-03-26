@@ -3,3 +3,6 @@ first demo git files
 its is imfo
 working area
  this is staging area 
+commmited files.
+this is working area 
+this is staging area .
